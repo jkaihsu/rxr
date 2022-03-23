@@ -4,8 +4,12 @@ RxR is script that creates a lightweight framework using:
 - React frontend  
 - Rails API backend 
 
-The purpose is to start building on a bare minimum clean slate. 
+The purpose of this project is to start building apps with just the essential files 
 
+## How to use
+```Save repo in /Development folder
+$ rxr ${app-name}
+```
 ## Rails Configuration
 #### Modify the Gemfile and config files:
 ```
